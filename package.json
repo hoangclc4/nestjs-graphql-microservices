@@ -1,0 +1,7 @@
+{
+  "name": "nestjs-graphql-microservices",
+  "version": "1.0.0",
+  "description": "A sample GraphQL API Gateway with gRPC back-end microservices built using the NestJS framework.",
+  "author": "Hoang Nguyen",
+  "license": "MIT"
+}
